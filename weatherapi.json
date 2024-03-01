@@ -1,0 +1,23 @@
+{
+  "updated_at": "01.03.2024 16:18",
+  "outside": {
+    "temperature": "+5",
+    "humidity": "70",
+    "pressure": "758",
+    "delta": "0"
+  },
+  "inside": [
+    {
+      "id": "house_floor_1",
+      "place": "inside",
+      "temperature": "+4",
+      "humidity": "69"
+    },
+    {
+      "id": "house_floor_2",
+      "place": "inside",
+      "temperature": "+11",
+      "humidity": "32"
+    }
+  ]
+}
